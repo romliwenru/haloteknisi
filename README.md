@@ -1,1 +1,1 @@
-# icon-haloteknisi
+haloteknisi
